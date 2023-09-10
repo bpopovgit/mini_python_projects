@@ -14,6 +14,6 @@ This depository contains a collection of the following mini Python projects:
 
 ## Live Demo
 
-The Rock Paper Scissors game can be played directly in your Web browser on [Replit](https://pages.github.com/).
+The Rock Paper Scissors game can be played directly in your Web browser on [Replit](https://replit.com/@Brockstar/rockpaperscissors#main.py).
 
  
