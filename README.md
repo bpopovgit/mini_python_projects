@@ -11,3 +11,9 @@ This depository contains a collection of the following mini Python projects:
   * Checks the computer's move, using the **random** library.
   * Stores the player and the computer's scores and displays them at the end of each game.
   * Asks the player if they would like to restart the game.
+
+ ## Live Demo
+
+ The game can be played directly in your Web browser on [Replit here]([https://pages.github.com/](https://replit.com/@Brockstar/rockpaperscissors#main.py)https://replit.com/@Brockstar/rockpaperscissors#main.py).
+
+ 
