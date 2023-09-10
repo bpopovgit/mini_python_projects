@@ -1,12 +1,13 @@
 import random
 from colorama import Fore, Style
 
+player_score = 0
+computer_score = 0
+
 while True:
     rock = 'Rock'
     paper = 'Paper'
     scissors = 'Scissors'
-    player_score = 0
-    computer_score = 0
 
     player_decision = input("Choose [r]ock, [p]aper or [s]cissors: ")
 
